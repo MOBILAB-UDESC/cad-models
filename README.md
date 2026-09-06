@@ -5,6 +5,8 @@
 ```sh
 git lfs install
 git clone git@github.com:MOBILAB-UDESC/cad-models.git
+cd cad-models
+git lfs pull
 ```
 
 ## Unitree G1 back
